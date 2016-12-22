@@ -47,13 +47,13 @@
 					<b>NUEVO USUARIO</b>
 				</h2>
 				<s:form action="register">
-					<s:textfield name="personBean.firstName" label="Nombre" />
+					<s:textfield name="personBean.firstName" label="Nombre"/>
 					
-					<s:textfield name="personBean.lastName" label="Last name" />
+					<s:textfield name="personBean.lastName" label="Last name"/>
 					
-					<s:textfield name="personBean.lastName2" label="Last name2" />
+					<s:textfield name="personBean.lastName2" label="Last name2"/>
 					
-					<s:textfield name="personBean.email" label="Email" />
+					<s:textfield name="personBean.email" label="Email"/>
 					
 					<s:textfield name="personBean.age" label="Age" />
 					
